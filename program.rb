@@ -1,1 +1,1 @@
-puts "ahoj svet"
+puts "ahoj world"
